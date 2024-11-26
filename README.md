@@ -9,4 +9,4 @@ https://github.com/sCrypt-Inc/cat-contracts
 
 - X: [@derricklee918](https://x.com/derricklee918)
 
-- Discord: [@derriclee918](https://discordapp.com/users/352387576017190913)
+- Discord: [@SolGuru](https://discordapp.com/users/352387576017190913)
